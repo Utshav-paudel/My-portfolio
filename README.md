@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python for Data science**
 
-- 👨‍💻 All of my projects are available at [www.utshavpaudel.com.np](www.utshavpaudel.com.np)
+- 👨‍💻 All of my projects are available at [www.utshavpaudel.com.np](https://utshavpaudel.com.np/)
 
 - 📫 How to reach me **utshavofficial46@gmail.com**
 
