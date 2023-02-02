@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Utshav Paudel</h1>
 <h3 align="center">A passionate Data science and Ml learner from Nepal</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utshav-paudel&label=Profile%20views&color=0e75b6&style=flat" alt="utshav-paudel" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshav-paudel" alt="utshav-paudel" /></a> </p>
