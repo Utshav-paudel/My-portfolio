@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utshav-paudel" alt="" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<p>Hey👋, I'm Utshav Paudel
+<p>
 I am a Data science and machine learning learner. My goals is to learn consistently and share my learnings here .</p>
 * 🌱 I’m currently learning **Data Analysis**
 
