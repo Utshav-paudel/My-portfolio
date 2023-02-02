@@ -8,6 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <p>
 I am a Data science and machine learning learner. My goals is to learn consistently and share my learnings here .</p>
+
 * 🌱 I’m currently learning **Data Analysis**
 
 * 👨‍💻 All of my projects are available at [www.utshavpaudel.com.np](https://utshavpaudel.com.np/)
